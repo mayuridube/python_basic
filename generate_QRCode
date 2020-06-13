@@ -1,0 +1,13 @@
+#requiremnts
+#1.pyQRCode and pypng
+
+import pyqrcode
+import png
+from pyqrcode import QRCode
+
+s = "any content want to put in qr code"
+
+url = pyqrcode.create(s)
+url.svg("myqr.svg",scale = 8)
+
+url.png("myqrcode.png",scale = 8 )
