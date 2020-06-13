@@ -16,3 +16,4 @@ stop thread of script by checkig current date with expiry date<br>
 
 5.Sending_mail.py<br>
 used to send mail using private google account<br>
+(*change authorization setting)
