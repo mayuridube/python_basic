@@ -5,7 +5,7 @@ Used to write some content in csv and also read it.<br>
 e.g:file.csv<br>
 
 2.read_write_json_file.py<br>
-Use to write content in csv and also read it.<br>
+Use to write content in json and also read it.<br>
 e.g:data.json<br>
 
 3.unzip_file:<br>
